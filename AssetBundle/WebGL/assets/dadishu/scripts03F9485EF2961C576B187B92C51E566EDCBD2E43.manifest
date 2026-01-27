@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 867620537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fcca3d7bb85e9f012555e8efaab4937
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DaDiShu/Scripts/Entry.lua.bytes
+- Assets/DaDiShu/Scripts/DaDiShuGuaJiWnd.lua.bytes
+- Assets/DaDiShu/Scripts/DaDiShuMainWnd.lua.bytes
+- Assets/DaDiShu/Scripts/DaDiShuHelper.lua.bytes
+Dependencies: []

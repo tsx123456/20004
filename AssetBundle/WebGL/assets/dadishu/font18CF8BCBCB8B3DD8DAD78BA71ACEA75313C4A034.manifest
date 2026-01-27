@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2164081384
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33a4d56a10e46da700bb14b30f1c796f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 714c2248e4854dd560b0d9645f21e838
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DaDiShu/Font/goldword1.mat
+- Assets/DaDiShu/Font/suzi(Material).mat
+- Assets/DaDiShu/Font/666.png
+- Assets/DaDiShu/Font/666.fontsettings
+- Assets/DaDiShu/Font/goldword1.fnt
+- Assets/DaDiShu/Font/suzi(Font).fontsettings
+- Assets/DaDiShu/Font/goldword1_0.png
+- Assets/DaDiShu/Font/suzi.png
+- Assets/DaDiShu/Font/goldword1.fontsettings
+- Assets/DaDiShu/Font/666.fnt
+- Assets/DaDiShu/Font/666.mat
+Dependencies: []

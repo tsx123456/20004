@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 2880547427
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6391628cf153ec7831e7a72ce4a51a3f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DaDiShu/Textures/Main/btnFast_09.png
+- Assets/DaDiShu/Textures/Main/btnIce_03.png
+- Assets/DaDiShu/Textures/Main/mygold_1.png
+- Assets/DaDiShu/Textures/Main/beishukuang.png
+- Assets/DaDiShu/Textures/Main/dipan.png
+- Assets/DaDiShu/Textures/Main/othergold_3.png
+- Assets/DaDiShu/Textures/Main/btnIce_05.png
+- Assets/DaDiShu/Textures/Main/xianhikuang2.png
+- Assets/DaDiShu/Textures/Main/btnIce_08.png
+- Assets/DaDiShu/Textures/Main/right.png
+- Assets/DaDiShu/Textures/Main/guajicao.png
+- Assets/DaDiShu/Textures/Main/fkskch.png
+- Assets/DaDiShu/Textures/Main/diyiceng.png
+- Assets/DaDiShu/Textures/Main/btnFast_03.png
+- Assets/DaDiShu/Textures/Main/touxiangjinbidiban.png
+- Assets/DaDiShu/Textures/Main/guajijindu.png
+- Assets/DaDiShu/Textures/Main/dierceng.png
+- Assets/DaDiShu/Textures/Main/btnFast_04.png
+- Assets/DaDiShu/Textures/Main/dengdaijiaru2.png
+- Assets/DaDiShu/Textures/Main/pangwanjinbidi.png
+- Assets/DaDiShu/Textures/Main/jianglidiban.png
+- Assets/DaDiShu/Textures/Main/btnFast_02.png
+- Assets/DaDiShu/Textures/Main/mygold_2.png
+- Assets/DaDiShu/Textures/Main/bottom.png
+- Assets/DaDiShu/Textures/Main/mygold_5.png
+- Assets/DaDiShu/Textures/Main/btnFast_01.png
+- Assets/DaDiShu/Textures/Main/btnFast_00.png
+- Assets/DaDiShu/Textures/Main/btnIce_09.png
+- Assets/DaDiShu/Textures/Main/btnIce_00.png
+- Assets/DaDiShu/Textures/Main/othergold_4.png
+- Assets/DaDiShu/Textures/Main/btnIce_07.png
+- Assets/DaDiShu/Textures/Main/tex_main_Atlas.spriteatlasv2
+- Assets/DaDiShu/Textures/Main/othergold_2.png
+- Assets/DaDiShu/Textures/Main/btnFast_05.png
+- Assets/DaDiShu/Textures/Main/disanceng.png
+- Assets/DaDiShu/Textures/Main/colse.png
+- Assets/DaDiShu/Textures/Main/jiemiandiban.png
+- Assets/DaDiShu/Textures/Main/mygold_4.png
+- Assets/DaDiShu/Textures/Main/btnFast_08.png
+- Assets/DaDiShu/Textures/Main/touxiangdi.png
+- Assets/DaDiShu/Textures/Main/jibidikuang.png
+- Assets/DaDiShu/Textures/Main/btnFast_06.png
+- Assets/DaDiShu/Textures/Main/dishudong.png
+- Assets/DaDiShu/Textures/Main/othergold_1.png
+- Assets/DaDiShu/Textures/Main/btnIce_01.png
+- Assets/DaDiShu/Textures/Main/diamond.png
+- Assets/DaDiShu/Textures/Main/mygold_3.png
+- Assets/DaDiShu/Textures/Main/othergold_5.png
+- Assets/DaDiShu/Textures/Main/baoxiang.png
+- Assets/DaDiShu/Textures/Main/gameBg.png
+- Assets/DaDiShu/Textures/Main/gold.png
+- Assets/DaDiShu/Textures/Main/disiceng.png
+- Assets/DaDiShu/Textures/Main/btnIce_02.png
+- Assets/DaDiShu/Textures/Main/xingdiban.png
+- Assets/DaDiShu/Textures/Main/touxiangdiban.png
+- Assets/DaDiShu/Textures/Main/btnFast_07.png
+- Assets/DaDiShu/Textures/Main/left.png
+- Assets/DaDiShu/Textures/Main/btnIce_04.png
+- Assets/DaDiShu/Textures/Main/touxiangdiban2.png
+- Assets/DaDiShu/Textures/Main/btnIce_06.png
+Dependencies: []

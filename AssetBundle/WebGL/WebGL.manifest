@@ -1,0 +1,112 @@
+ManifestFileVersion: 0
+CRC: 3122838715
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets/dadishu/audios.ab
+      Dependencies: {}
+    Info_1:
+      Name: assets/dadishu/font.ab
+      Dependencies: {}
+    Info_2:
+      Name: assets/dadishu/font1.ab
+      Dependencies: {}
+    Info_3:
+      Name: assets/dadishu/scripts.ab
+      Dependencies: {}
+    Info_4:
+      Name: assets/dadishu/spine.ab
+      Dependencies: {}
+    Info_5:
+      Name: assets/dadishu/uiitem.ab
+      Dependencies:
+        Dependency_0: assets/dadishu/font.ab
+        Dependency_1: assets/dadishu/font1.ab
+        Dependency_2: assets/dadishu/spine.ab
+        Dependency_3: assets/dadishu/eff/materials.ab
+        Dependency_4: assets/dadishu/eff/textures.ab
+        Dependency_5: assets/dadishu/eff/ui.ab
+        Dependency_6: assets/dadishu/textures/guaji.ab
+        Dependency_7: assets/dadishu/textures/main.ab
+        Dependency_8: assets/dadishu/textures/res.ab
+        Dependency_9: assets/dadishu/language/cn_ch/guaji.ab
+        Dependency_10: assets/dadishu/language/cn_ch/main.ab
+    Info_6:
+      Name: assets/dadishu/uiwnd.ab
+      Dependencies:
+        Dependency_0: assets/dadishu/audios.ab
+        Dependency_1: assets/dadishu/font1.ab
+        Dependency_2: assets/dadishu/spine.ab
+        Dependency_3: assets/dadishu/uiitem.ab
+        Dependency_4: assets/dadishu/eff/materials.ab
+        Dependency_5: assets/dadishu/eff/xulie.ab
+        Dependency_6: assets/dadishu/textures/guaji.ab
+        Dependency_7: assets/dadishu/textures/help.ab
+        Dependency_8: assets/dadishu/textures/main.ab
+        Dependency_9: assets/dadishu/textures/res.ab
+        Dependency_10: assets/dadishu/language/cn_ch/guaji.ab
+        Dependency_11: assets/dadishu/language/cn_ch/help.ab
+        Dependency_12: assets/dadishu/language/cn_ch/main.ab
+    Info_7:
+      Name: assets/dadishu/eff/materials.ab
+      Dependencies:
+        Dependency_0: assets/dadishu/eff/textures.ab
+    Info_8:
+      Name: assets/dadishu/eff/textures.ab
+      Dependencies: {}
+    Info_9:
+      Name: assets/dadishu/eff/ui.ab
+      Dependencies:
+        Dependency_0: assets/dadishu/eff/materials.ab
+        Dependency_1: assets/dadishu/eff/xulie.ab
+    Info_10:
+      Name: assets/dadishu/eff/xulie.ab
+      Dependencies: {}
+    Info_11:
+      Name: assets/dadishu/textures/guaji.ab
+      Dependencies: {}
+    Info_12:
+      Name: assets/dadishu/textures/help.ab
+      Dependencies: {}
+    Info_13:
+      Name: assets/dadishu/textures/main.ab
+      Dependencies: {}
+    Info_14:
+      Name: assets/dadishu/textures/res.ab
+      Dependencies: {}
+    Info_15:
+      Name: assets/dadishu/language/cn_ch/guaji.ab
+      Dependencies: {}
+    Info_16:
+      Name: assets/dadishu/language/cn_ch/help.ab
+      Dependencies: {}
+    Info_17:
+      Name: assets/dadishu/language/cn_ch/main.ab
+      Dependencies: {}
+    Info_18:
+      Name: assets/dadishu/language/cn_ch/spine.ab
+      Dependencies: {}
+    Info_19:
+      Name: assets/dadishu/language/en_us/guaji.ab
+      Dependencies: {}
+    Info_20:
+      Name: assets/dadishu/language/en_us/help.ab
+      Dependencies: {}
+    Info_21:
+      Name: assets/dadishu/language/en_us/main.ab
+      Dependencies: {}
+    Info_22:
+      Name: assets/dadishu/language/en_us/spine.ab
+      Dependencies: {}
+    Info_23:
+      Name: assets/dadishu/language/pt/guaji.ab
+      Dependencies: {}
+    Info_24:
+      Name: assets/dadishu/language/pt/help.ab
+      Dependencies: {}
+    Info_25:
+      Name: assets/dadishu/language/pt/main.ab
+      Dependencies: {}
+    Info_26:
+      Name: assets/dadishu/language/pt/spine.ab
+      Dependencies: {}

@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 2657728420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb4d71eed6d7351c4db1b585ed4187e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DaDiShu/Eff/Textures/zisejianbian 2.png
+- Assets/DaDiShu/Eff/Textures/775.bmp
+- Assets/DaDiShu/Eff/Textures/TX-GQ-073.png
+- Assets/DaDiShu/Eff/Textures/D_2D_DarkHit_01.png
+- Assets/DaDiShu/Eff/Textures/yanwu01.tga
+- Assets/DaDiShu/Eff/Textures/Common_Leaf01.png
+- Assets/DaDiShu/Eff/Textures/Ground_Lava03.png
+- Assets/DaDiShu/Eff/Textures/Global_SS_Ignite_Burst_02_alp.png
+- Assets/DaDiShu/Eff/Textures/guangyun01_00001.png
+- Assets/DaDiShu/Eff/Textures/774.bmp
+- Assets/DaDiShu/Eff/Textures/xingxing 1.tga
+- Assets/DaDiShu/Eff/Textures/cui_skill03_zadi04.png
+- Assets/DaDiShu/Eff/Textures/0301.tga
+- Assets/DaDiShu/Eff/Textures/106cc81bff8b0a31f5291c8d631092bf 1.png
+- Assets/DaDiShu/Eff/Textures/quan 1.png
+- Assets/DaDiShu/Eff/Textures/glow.png
+- Assets/DaDiShu/Eff/Textures/9.png
+- Assets/DaDiShu/Eff/Textures/4741.TGA
+- Assets/DaDiShu/Eff/Textures/xiangyun.tga
+- Assets/DaDiShu/Eff/Textures/bing.png
+- Assets/DaDiShu/Eff/Textures/eff_tex_Atlas.spriteatlasv2
+- Assets/DaDiShu/Eff/Textures/color07_00001.png
+- Assets/DaDiShu/Eff/Textures/fz054_01_00001.png
+- Assets/DaDiShu/Eff/Textures/8ee6e49b.tga
+- Assets/DaDiShu/Eff/Textures/xiaotaiyang2.png
+- Assets/DaDiShu/Eff/Textures/yun.png
+- Assets/DaDiShu/Eff/Textures/andi.TGA
+- Assets/DaDiShu/Eff/Textures/776.bmp
+- Assets/DaDiShu/Eff/Textures/xiangyunH.tga
+- Assets/DaDiShu/Eff/Textures/dc542d866434f33fc03a2273495db852.png
+- Assets/DaDiShu/Eff/Textures/posui1.png
+- Assets/DaDiShu/Eff/Textures/0472.tga
+- Assets/DaDiShu/Eff/Textures/monk_dashingStrike_blurDiff.TGA
+- Assets/DaDiShu/Eff/Textures/jinbi2.png
+- Assets/DaDiShu/Eff/Textures/0471_057.png
+- Assets/DaDiShu/Eff/Textures/yanwuzhezhao.tga
+- Assets/DaDiShu/Eff/Textures/guang05.png
+- Assets/DaDiShu/Eff/Textures/xuehua 1_00001.png
+- Assets/DaDiShu/Eff/Textures/54bc473d1fdd5239d6ef560773a7b728.png
+Dependencies: []

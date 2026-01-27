@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1280389723
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f52b31abb6aa88c552531ceb25eb6bf4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DaDiShu/Eff/XULIE/1 (9).png
+- Assets/DaDiShu/Eff/XULIE/xuile_Atlas.spriteatlasv2
+- Assets/DaDiShu/Eff/XULIE/1 (6).png
+- Assets/DaDiShu/Eff/XULIE/1 (5).png
+- Assets/DaDiShu/Eff/XULIE/1 (2).png
+- Assets/DaDiShu/Eff/XULIE/1 (1).png
+- Assets/DaDiShu/Eff/XULIE/1 (10).png
+- Assets/DaDiShu/Eff/XULIE/1 (7).png
+- Assets/DaDiShu/Eff/XULIE/1 (3).png
+- Assets/DaDiShu/Eff/XULIE/1 (4).png
+- Assets/DaDiShu/Eff/XULIE/1 (8).png
+Dependencies: []

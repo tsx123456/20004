@@ -1,0 +1,143 @@
+ManifestFileVersion: 0
+CRC: 1434465346
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f5c9845a56f66e6efb1cfa443f87d9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c78d5195f1e594eb5f56b36cf399b542
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7ebaf7ce8f270c4585a326c77c0abe1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c642e424b75c944489368c197c604351, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2320a605418de4045a1a4c21b4342a25, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d367a049c9f3fde43b1006c087086d28, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aad38f5673f52164796fe052e9a5384c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Spine.Unity.MeshGenerator
+- AssemblyName: Assembly-CSharp
+  ClassName: Spine.Unity.MeshGenerator/Settings
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/DaDiShu/UIItem/mouse6.prefab
+- Assets/DaDiShu/UIItem/hit_eff23.prefab
+- Assets/DaDiShu/UIItem/mouse8.prefab
+- Assets/DaDiShu/UIItem/hit_eff35.prefab
+- Assets/DaDiShu/UIItem/DishuObject.prefab
+- Assets/DaDiShu/UIItem/mouse1.prefab
+- Assets/DaDiShu/UIItem/changeChuiziEff.prefab
+- Assets/DaDiShu/UIItem/hammer.controller
+- Assets/DaDiShu/UIItem/goldCoinRobot.prefab
+- Assets/DaDiShu/UIItem/mouse4.prefab
+- Assets/DaDiShu/UIItem/mouse7.prefab
+- Assets/DaDiShu/UIItem/mouse10.prefab
+- Assets/DaDiShu/UIItem/txtGold.prefab
+- Assets/DaDiShu/UIItem/mouse2.prefab
+- Assets/DaDiShu/UIItem/GuajiResult.prefab
+- Assets/DaDiShu/UIItem/mouse5.prefab
+- Assets/DaDiShu/UIItem/normal.anim
+- Assets/DaDiShu/UIItem/hit_eff25.prefab
+- Assets/DaDiShu/UIItem/hit_eff12.prefab
+- Assets/DaDiShu/UIItem/spawn_eff_10.prefab
+- Assets/DaDiShu/UIItem/hit_eff22.prefab
+- Assets/DaDiShu/UIItem/hit_eff34.prefab
+- Assets/DaDiShu/UIItem/caijinItem.prefab
+- Assets/DaDiShu/UIItem/hit_eff13.prefab
+- Assets/DaDiShu/UIItem/spawn_eff_11.prefab
+- Assets/DaDiShu/UIItem/hit_eff33.prefab
+- Assets/DaDiShu/UIItem/baoxiang_open.prefab
+- Assets/DaDiShu/UIItem/goldCoinPlayer.prefab
+- Assets/DaDiShu/UIItem/mouse3.prefab
+- Assets/DaDiShu/UIItem/hit_eff14.prefab
+- Assets/DaDiShu/UIItem/bossDie.prefab
+- Assets/DaDiShu/UIItem/hit_eff24.prefab
+- Assets/DaDiShu/UIItem/hit_eff11.prefab
+- Assets/DaDiShu/UIItem/txtGoldOther.prefab
+- Assets/DaDiShu/UIItem/mouse9.prefab
+- Assets/DaDiShu/UIItem/frozenEff.prefab
+- Assets/DaDiShu/UIItem/hit_eff32.prefab
+- Assets/DaDiShu/UIItem/mouse11.prefab
+- Assets/DaDiShu/UIItem/hit_eff15.prefab
+- Assets/DaDiShu/UIItem/baoxiangEff.prefab
+- Assets/DaDiShu/UIItem/hit_eff21.prefab
+- Assets/DaDiShu/UIItem/hammer_buff.prefab
+- Assets/DaDiShu/UIItem/hit.anim
+- Assets/DaDiShu/UIItem/hit_eff31.prefab
+Dependencies:
+- E:/work/Unity_DaDiShu/./AssetBundle/WebGL/assets/dadishu/eff/materials.ab
+- E:/work/Unity_DaDiShu/./AssetBundle/WebGL/assets/dadishu/eff/textures.ab
+- E:/work/Unity_DaDiShu/./AssetBundle/WebGL/assets/dadishu/eff/ui.ab
+- E:/work/Unity_DaDiShu/./AssetBundle/WebGL/assets/dadishu/font.ab
+- E:/work/Unity_DaDiShu/./AssetBundle/WebGL/assets/dadishu/font1.ab
+- E:/work/Unity_DaDiShu/./AssetBundle/WebGL/assets/dadishu/language/cn_ch/guaji.ab
+- E:/work/Unity_DaDiShu/./AssetBundle/WebGL/assets/dadishu/language/cn_ch/main.ab
+- E:/work/Unity_DaDiShu/./AssetBundle/WebGL/assets/dadishu/spine.ab
+- E:/work/Unity_DaDiShu/./AssetBundle/WebGL/assets/dadishu/textures/guaji.ab
+- E:/work/Unity_DaDiShu/./AssetBundle/WebGL/assets/dadishu/textures/main.ab
+- E:/work/Unity_DaDiShu/./AssetBundle/WebGL/assets/dadishu/textures/res.ab

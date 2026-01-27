@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1801617260
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ffdd54d565db79809eb6785722a1fd34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DaDiShu/language/cn_CH/guaji/sjmsl.png
+- Assets/DaDiShu/language/cn_CH/guaji/xzwq.png
+- Assets/DaDiShu/language/cn_CH/guaji/cn_guaji_Atlas.spriteatlasv2
+- Assets/DaDiShu/language/cn_CH/guaji/xzds.png
+- Assets/DaDiShu/language/cn_CH/guaji/nide .png
+- Assets/DaDiShu/language/cn_CH/guaji/baoxiang.png
+- Assets/DaDiShu/language/cn_CH/guaji/zaixianguaji.png
+- Assets/DaDiShu/language/cn_CH/guaji/biaotigujishezhi.png
+- Assets/DaDiShu/language/cn_CH/guaji/shij.png
+- Assets/DaDiShu/language/cn_CH/guaji/sjmsh.png
+- Assets/DaDiShu/language/cn_CH/guaji/bcfkdslxgjjxl.png
+- Assets/DaDiShu/language/cn_CH/guaji/xzms.png
+- Assets/DaDiShu/language/cn_CH/guaji/huajikuang.png
+- Assets/DaDiShu/language/cn_CH/guaji/jinb.png
+- Assets/DaDiShu/language/cn_CH/guaji/guajishezhi.png
+- Assets/DaDiShu/language/cn_CH/guaji/djcs.png
+- Assets/DaDiShu/language/cn_CH/guaji/lixianguaji.png
+- Assets/DaDiShu/language/cn_CH/guaji/guajijiesuan.png
+Dependencies: []

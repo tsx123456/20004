@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2978656245
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bac28e35557c8652789782db3db9a233
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DaDiShu/language/cn_CH/Main/lableTIME.png
+- Assets/DaDiShu/language/cn_CH/Main/gamesetting.png
+- Assets/DaDiShu/language/cn_CH/Main/gameHelp2.png
+- Assets/DaDiShu/language/cn_CH/Main/lableGold.png
+- Assets/DaDiShu/language/cn_CH/Main/slider0.png
+- Assets/DaDiShu/language/cn_CH/Main/btnFast.png
+- Assets/DaDiShu/language/cn_CH/Main/guajizhong.png
+- Assets/DaDiShu/language/cn_CH/Main/slider1.png
+- Assets/DaDiShu/language/cn_CH/Main/anniuks.png
+- Assets/DaDiShu/language/cn_CH/Main/btnAuto.png
+- Assets/DaDiShu/language/cn_CH/Main/anniuqx.png
+- Assets/DaDiShu/language/cn_CH/Main/zongguanbi.png
+- Assets/DaDiShu/language/cn_CH/Main/dengdaijiaru.png
+- Assets/DaDiShu/language/cn_CH/Main/jiesuanbg.png
+- Assets/DaDiShu/language/cn_CH/Main/btnice.png
+- Assets/DaDiShu/language/cn_CH/Main/cn_main_Atlas.spriteatlasv2
+- Assets/DaDiShu/language/cn_CH/Main/tuichu.png
+- Assets/DaDiShu/language/cn_CH/Main/help.png
+- Assets/DaDiShu/language/cn_CH/Main/caijinjiangli.png
+- Assets/DaDiShu/language/cn_CH/Main/btnCancelGuaji.png
+- Assets/DaDiShu/language/cn_CH/Main/bangzhu.png
+- Assets/DaDiShu/language/cn_CH/Main/gameHelp_title.png
+Dependencies: []

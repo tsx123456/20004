@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3610441134
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d00107512926a897b341c355693ba1dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DaDiShu/language/cn_CH/help/jinengjieshaojiasu.png
+- Assets/DaDiShu/language/cn_CH/help/cn_help_Atlas.spriteatlasv2
+- Assets/DaDiShu/language/cn_CH/help/dishubeishu.png
+- Assets/DaDiShu/language/cn_CH/help/jinengjiehaozidong.png
+- Assets/DaDiShu/language/cn_CH/help/jinengjieshao.png
+- Assets/DaDiShu/language/cn_CH/help/biaotiyouxibangzhu.png
+- Assets/DaDiShu/language/cn_CH/help/jinengjieshaodongjie.png
+Dependencies: []

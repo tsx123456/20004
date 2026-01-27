@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 3996844885
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e635f2959d7d0de932989314acd24336
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DaDiShu/Textures/Guaji/tabshang.png
+- Assets/DaDiShu/Textures/Guaji/xuanzexiaodi.png
+- Assets/DaDiShu/Textures/Guaji/head_9.png
+- Assets/DaDiShu/Textures/Guaji/head_2.png
+- Assets/DaDiShu/Textures/Guaji/dajicishudikuang.png
+- Assets/DaDiShu/Textures/Guaji/dibanda.png
+- Assets/DaDiShu/Textures/Guaji/huadongtiao.png
+- Assets/DaDiShu/Textures/Guaji/head_10.png
+- Assets/DaDiShu/Textures/Guaji/dstxddg.png
+- Assets/DaDiShu/Textures/Guaji/head_1.png
+- Assets/DaDiShu/Textures/Guaji/head_7.png
+- Assets/DaDiShu/Textures/Guaji/shuzixianshikuang.png
+- Assets/DaDiShu/Textures/Guaji/head_5.png
+- Assets/DaDiShu/Textures/Guaji/chuizixuanze.png
+- Assets/DaDiShu/Textures/Guaji/head_6.png
+- Assets/DaDiShu/Textures/Guaji/biaotidiban.png
+- Assets/DaDiShu/Textures/Guaji/head_8.png
+- Assets/DaDiShu/Textures/Guaji/head_11.png
+- Assets/DaDiShu/Textures/Guaji/head_3.png
+- Assets/DaDiShu/Textures/Guaji/shijiankuang.png
+- Assets/DaDiShu/Textures/Guaji/kuangdighfg.png
+- Assets/DaDiShu/Textures/Guaji/anniu.png
+- Assets/DaDiShu/Textures/Guaji/xianshikuang.png
+- Assets/DaDiShu/Textures/Guaji/xuanzechuizi.png
+- Assets/DaDiShu/Textures/Guaji/huadongtiaodi.png
+- Assets/DaDiShu/Textures/Guaji/anniuhuakuai.png
+- Assets/DaDiShu/Textures/Guaji/weixuanzechuizi.png
+- Assets/DaDiShu/Textures/Guaji/diban.png
+- Assets/DaDiShu/Textures/Guaji/tabqiehuandi.png
+- Assets/DaDiShu/Textures/Guaji/head_4.png
+- Assets/DaDiShu/Textures/Guaji/guaji_Atlas.spriteatlasv2
+Dependencies: []

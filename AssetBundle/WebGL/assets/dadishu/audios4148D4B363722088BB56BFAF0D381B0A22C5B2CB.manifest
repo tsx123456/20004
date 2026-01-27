@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 3833159541
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d47b8359ee551b259e85e47a626d6fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DaDiShu/Audios/getGold.mp3
+- Assets/DaDiShu/Audios/frozen_start.mp3
+- Assets/DaDiShu/Audios/coin3.mp3
+- Assets/DaDiShu/Audios/coin2.mp3
+- Assets/DaDiShu/Audios/die8.mp3
+- Assets/DaDiShu/Audios/coin1.mp3
+- Assets/DaDiShu/Audios/boss_spawn1.mp3
+- Assets/DaDiShu/Audios/spawn6.mp3
+- Assets/DaDiShu/Audios/die2.mp3
+- Assets/DaDiShu/Audios/crazy_time.mp3
+- Assets/DaDiShu/Audios/disappear2.mp3
+- Assets/DaDiShu/Audios/die1.mp3
+- Assets/DaDiShu/Audios/spawn4.mp3
+- Assets/DaDiShu/Audios/boss_light.mp3
+- Assets/DaDiShu/Audios/spawn5.mp3
+- Assets/DaDiShu/Audios/hammer_hit.mp3
+- Assets/DaDiShu/Audios/spawn3.mp3
+- Assets/DaDiShu/Audios/changeChuizi.mp3
+- Assets/DaDiShu/Audios/boss_spawn2.mp3
+- Assets/DaDiShu/Audios/spawn1.mp3
+- Assets/DaDiShu/Audios/die10.mp3
+- Assets/DaDiShu/Audios/damage.mp3
+- Assets/DaDiShu/Audios/die4.mp3
+- Assets/DaDiShu/Audios/behit.mp3
+- Assets/DaDiShu/Audios/die6.mp3
+- Assets/DaDiShu/Audios/die7.mp3
+- Assets/DaDiShu/Audios/greatWinTurn.mp3
+- Assets/DaDiShu/Audios/frozen_progress.mp3
+- Assets/DaDiShu/Audios/bgm.mp3
+- Assets/DaDiShu/Audios/frozen_end.mp3
+- Assets/DaDiShu/Audios/caijin.mp3
+- Assets/DaDiShu/Audios/disappear1.mp3
+- Assets/DaDiShu/Audios/die3.mp3
+- Assets/DaDiShu/Audios/die5.mp3
+- Assets/DaDiShu/Audios/die9.mp3
+- Assets/DaDiShu/Audios/spawn2.mp3
+- Assets/DaDiShu/Audios/die11.mp3
+- Assets/DaDiShu/Audios/award.mp3
+Dependencies: []

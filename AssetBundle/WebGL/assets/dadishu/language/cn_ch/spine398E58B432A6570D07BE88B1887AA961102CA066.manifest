@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 1424392135
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0774fea06cb7628d9664825557821a33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d70278527e33c8c0826e364da76deeb3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aad38f5673f52164796fe052e9a5384c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Spine.Unity.MeshGenerator
+- AssemblyName: Assembly-CSharp
+  ClassName: Spine.Unity.MeshGenerator/Settings
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/DaDiShu/language/cn_CH/spine/fengkuangshike_Atlas.asset
+- Assets/DaDiShu/language/cn_CH/spine/crayTimeSpine.prefab
+- Assets/DaDiShu/language/cn_CH/spine/fengkuangshike_SkeletonData.asset
+- Assets/DaDiShu/language/cn_CH/spine/fengkuangshike.json
+- Assets/DaDiShu/language/cn_CH/spine/fengkuangshike.atlas.txt
+- Assets/DaDiShu/language/cn_CH/spine/fengkuangshike_Material.mat
+- Assets/DaDiShu/language/cn_CH/spine/fengkuangshike.png
+Dependencies: []

@@ -1,0 +1,100 @@
+ManifestFileVersion: 0
+CRC: 2199486973
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91353cb2930daaa85508481d1e26b1db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e46e7e4b877bfdeb69198a9fd36ef50e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DaDiShu/Spine/dishu02_Atlas.asset
+- Assets/DaDiShu/Spine/dishu10_Material.mat
+- Assets/DaDiShu/Spine/dishu06_Material.mat
+- Assets/DaDiShu/Spine/dishu06.json
+- Assets/DaDiShu/Spine/dishu02_SkeletonData.asset
+- Assets/DaDiShu/Spine/dishu05.atlas.txt
+- Assets/DaDiShu/Spine/baoxiang_Atlas.asset
+- Assets/DaDiShu/Spine/dishu01.json
+- Assets/DaDiShu/Spine/dishu07.png
+- Assets/DaDiShu/Spine/dishu06_Atlas.asset
+- Assets/DaDiShu/Spine/dishu01.atlas.txt
+- Assets/DaDiShu/Spine/dishu04_Material.mat
+- Assets/DaDiShu/Spine/dishu09.atlas.txt
+- Assets/DaDiShu/Spine/dishu07_SkeletonData.asset
+- Assets/DaDiShu/Spine/dishu04.atlas.txt
+- Assets/DaDiShu/Spine/dishu08_Material.mat
+- Assets/DaDiShu/Spine/dishu01.png
+- Assets/DaDiShu/Spine/dishu05_Material.mat
+- Assets/DaDiShu/Spine/dishu10.json
+- Assets/DaDiShu/Spine/dishu03_Material.mat
+- Assets/DaDiShu/Spine/dishu11_SkeletonData.asset
+- Assets/DaDiShu/Spine/dishu09_Atlas.asset
+- Assets/DaDiShu/Spine/dishu10.atlas.txt
+- Assets/DaDiShu/Spine/dishu08.png
+- Assets/DaDiShu/Spine/dishu03_SkeletonData.asset
+- Assets/DaDiShu/Spine/dishu03.atlas.txt
+- Assets/DaDiShu/Spine/dishu07.json
+- Assets/DaDiShu/Spine/dishu03_Atlas.asset
+- Assets/DaDiShu/Spine/dishu01_Material.mat
+- Assets/DaDiShu/Spine/dishu08_SkeletonData.asset
+- Assets/DaDiShu/Spine/dishu07.atlas.txt
+- Assets/DaDiShu/Spine/dishu02.json
+- Assets/DaDiShu/Spine/dishu03.json
+- Assets/DaDiShu/Spine/dishu09_SkeletonData.asset
+- Assets/DaDiShu/Spine/baoxiang.json
+- Assets/DaDiShu/Spine/dishu04.png
+- Assets/DaDiShu/Spine/dishu03.png
+- Assets/DaDiShu/Spine/dishu10.png
+- Assets/DaDiShu/Spine/dishu10_Atlas.asset
+- Assets/DaDiShu/Spine/dishu09.png
+- Assets/DaDiShu/Spine/dishu02_Material.mat
+- Assets/DaDiShu/Spine/baoxiang.atlas.txt
+- Assets/DaDiShu/Spine/dishu10_SkeletonData.asset
+- Assets/DaDiShu/Spine/dishu08.atlas.txt
+- Assets/DaDiShu/Spine/dishu11.png
+- Assets/DaDiShu/Spine/dishu11.atlas.txt
+- Assets/DaDiShu/Spine/dishu06.atlas.txt
+- Assets/DaDiShu/Spine/dishu06.png
+- Assets/DaDiShu/Spine/dishu11_Material.mat
+- Assets/DaDiShu/Spine/dishu02.atlas.txt
+- Assets/DaDiShu/Spine/dishu11_Atlas.asset
+- Assets/DaDiShu/Spine/dishu08.json
+- Assets/DaDiShu/Spine/dishu06_SkeletonData.asset
+- Assets/DaDiShu/Spine/dishu05.json
+- Assets/DaDiShu/Spine/dishu09.json
+- Assets/DaDiShu/Spine/dishu01_SkeletonData.asset
+- Assets/DaDiShu/Spine/baoxiang_SkeletonData.asset
+- Assets/DaDiShu/Spine/dishu05.png
+- Assets/DaDiShu/Spine/dishu05_Atlas.asset
+- Assets/DaDiShu/Spine/dishu07_Atlas.asset
+- Assets/DaDiShu/Spine/baoxiang.png
+- Assets/DaDiShu/Spine/dishu05_SkeletonData.asset
+- Assets/DaDiShu/Spine/baoxiang_Material.mat
+- Assets/DaDiShu/Spine/dishu02.png
+- Assets/DaDiShu/Spine/dishu11.json
+- Assets/DaDiShu/Spine/dishu04.json
+- Assets/DaDiShu/Spine/dishu04_SkeletonData.asset
+- Assets/DaDiShu/Spine/dishu07_Material.mat
+- Assets/DaDiShu/Spine/dishu09_Material.mat
+- Assets/DaDiShu/Spine/dishu08_Atlas.asset
+- Assets/DaDiShu/Spine/dishu01_Atlas.asset
+- Assets/DaDiShu/Spine/dishu04_Atlas.asset
+Dependencies: []

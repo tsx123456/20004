@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 1860673919
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a8e6b91a70ca4b6ee2253b0b2af14c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 661b9e997c931501d0e4861c1d933db7
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DaDiShu/Eff/Materials/8ee6e49b.mat
+- Assets/DaDiShu/Eff/Materials/guang06.mat
+- Assets/DaDiShu/Eff/Materials/quan 1.mat
+- Assets/DaDiShu/Eff/Materials/0301.mat
+- Assets/DaDiShu/Eff/Materials/xiaotaiyang2.mat
+- Assets/DaDiShu/Eff/Materials/dc542d866434f33fc03a2273495db852.mat
+- Assets/DaDiShu/Eff/Materials/xiangyun 1.mat
+- Assets/DaDiShu/Eff/Materials/Shader Forge_rongjie12.mat
+- Assets/DaDiShu/Eff/Materials/774.mat
+- Assets/DaDiShu/Eff/Materials/guang05.mat
+- Assets/DaDiShu/Eff/Materials/776.mat
+- Assets/DaDiShu/Eff/Materials/xuehua 1_00001.mat
+- Assets/DaDiShu/Eff/Materials/54bc473d1fdd5239d6ef560773a7b728.mat
+- Assets/DaDiShu/Eff/Materials/9.mat
+- Assets/DaDiShu/Eff/Materials/color07_00001.mat
+- Assets/DaDiShu/Eff/Materials/fz054_01_00001.mat
+- Assets/DaDiShu/Eff/Materials/Common_Leaf01.mat
+- Assets/DaDiShu/Eff/Materials/yun.mat
+- Assets/DaDiShu/Eff/Materials/0472.mat
+- Assets/DaDiShu/Eff/Materials/106cc81bff8b0a31f5291c8d631092bf 1.mat
+- Assets/DaDiShu/Eff/Materials/yanwu01.mat
+- Assets/DaDiShu/Eff/Materials/xiangyunH.mat
+- Assets/DaDiShu/Eff/Materials/4741.mat
+- Assets/DaDiShu/Eff/Materials/andi.mat
+- Assets/DaDiShu/Eff/Materials/xingxing 1.mat
+- Assets/DaDiShu/Eff/Materials/D_2D_DarkHit_01.mat
+- Assets/DaDiShu/Eff/Materials/bing.mat
+- Assets/DaDiShu/Eff/Materials/guangyun01_00001.mat
+- Assets/DaDiShu/Eff/Materials/Shader Forge_rongjie14.mat
+- Assets/DaDiShu/Eff/Materials/Global_SS_Ignite_Burst_02_alp.mat
+- Assets/DaDiShu/Eff/Materials/jinbi2.mat
+- Assets/DaDiShu/Eff/Materials/xiangyun.mat
+- Assets/DaDiShu/Eff/Materials/glow.mat
+- Assets/DaDiShu/Eff/Materials/Ground_Lava03.mat
+- Assets/DaDiShu/Eff/Materials/monk_dashingStrike_blurDiff.mat
+- Assets/DaDiShu/Eff/Materials/0471_057.mat
+- Assets/DaDiShu/Eff/Materials/TX-GQ-073.mat
+- Assets/DaDiShu/Eff/Materials/andi 1.mat
+- Assets/DaDiShu/Eff/Materials/yanwu02.mat
+- Assets/DaDiShu/Eff/Materials/775.mat
+- Assets/DaDiShu/Eff/Materials/zisejianbian 2.mat
+- Assets/DaDiShu/Eff/Materials/cui_skill03_zadi04.mat
+Dependencies:
+- E:/work/Unity_DaDiShu/./AssetBundle/WebGL/assets/dadishu/eff/textures.ab

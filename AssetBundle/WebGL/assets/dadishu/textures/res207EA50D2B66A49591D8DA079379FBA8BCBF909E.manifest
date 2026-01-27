@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 3918150868
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24af2ef012d952299e92a9cef9e8d2d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DaDiShu/Textures/res/hammerhit_34.png
+- Assets/DaDiShu/Textures/res/hammerhit_24.png
+- Assets/DaDiShu/Textures/res/hammerhit_15.png
+- Assets/DaDiShu/Textures/res/hammerhit_23.png
+- Assets/DaDiShu/Textures/res/hammerhit_13.png
+- Assets/DaDiShu/Textures/res/hammer_26.png
+- Assets/DaDiShu/Textures/res/hammerhit_28.png
+- Assets/DaDiShu/Textures/res/hammerhit_22.png
+- Assets/DaDiShu/Textures/res/hammer_32.png
+- Assets/DaDiShu/Textures/res/hammer_27.png
+- Assets/DaDiShu/Textures/res/hammer_210.png
+- Assets/DaDiShu/Textures/res/hammer_25.png
+- Assets/DaDiShu/Textures/res/hammer_29.png
+- Assets/DaDiShu/Textures/res/hammerhit_14.png
+- Assets/DaDiShu/Textures/res/hammer_28.png
+- Assets/DaDiShu/Textures/res/hammerhit_21.png
+- Assets/DaDiShu/Textures/res/hammer_14.png
+- Assets/DaDiShu/Textures/res/hammerhit_11.png
+- Assets/DaDiShu/Textures/res/hammer_11.png
+- Assets/DaDiShu/Textures/res/hammerhit_31.png
+- Assets/DaDiShu/Textures/res/hammer_35.png
+- Assets/DaDiShu/Textures/res/hammerhit_35.png
+- Assets/DaDiShu/Textures/res/hammer_12.png
+- Assets/DaDiShu/Textures/res/hammerhit_29.png
+- Assets/DaDiShu/Textures/res/hammerhit_25.png
+- Assets/DaDiShu/Textures/res/tex_res_Atlas.spriteatlasv2
+- Assets/DaDiShu/Textures/res/hammerhit_26.png
+- Assets/DaDiShu/Textures/res/hammer_21.png
+- Assets/DaDiShu/Textures/res/hammerhit_12.png
+- Assets/DaDiShu/Textures/res/hammer_15.png
+- Assets/DaDiShu/Textures/res/hammerhit_33.png
+- Assets/DaDiShu/Textures/res/hammerhit_32.png
+- Assets/DaDiShu/Textures/res/hammer_23.png
+- Assets/DaDiShu/Textures/res/hammer_22.png
+- Assets/DaDiShu/Textures/res/hammer_13.png
+- Assets/DaDiShu/Textures/res/hammer_34.png
+- Assets/DaDiShu/Textures/res/hammerhit_27.png
+- Assets/DaDiShu/Textures/res/hammer_24.png
+- Assets/DaDiShu/Textures/res/hammerhit_210.png
+- Assets/DaDiShu/Textures/res/hammer_31.png
+- Assets/DaDiShu/Textures/res/hammer_33.png
+Dependencies: []

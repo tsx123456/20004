@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 3764782273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ec745770970bafc2bd002b590ca6f65
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9d591b2b61f634f0c492691f6a35f766
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7ebaf7ce8f270c4585a326c77c0abe1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/DaDiShu/Eff/UI/mouse10 spawnEff.prefab
+- Assets/DaDiShu/Eff/UI/jiasu Eff.prefab
+- Assets/DaDiShu/Eff/UI/nengliangqiu Eff.prefab
+- Assets/DaDiShu/Eff/UI/fengkuangshike Eff.prefab
+- Assets/DaDiShu/Eff/UI/qiehuanchuizi Eff.prefab
+- Assets/DaDiShu/Eff/UI/bingdongpingmuEff.prefab
+- Assets/DaDiShu/Eff/UI/baoxiang.prefab
+- Assets/DaDiShu/Eff/UI/guaji Eff.prefab
+- Assets/DaDiShu/Eff/UI/mouse11 spawnEff.prefab
+- Assets/DaDiShu/Eff/UI/baoxiang_open Eff.prefab
+- Assets/DaDiShu/Eff/UI/zidong Eff.prefab
+- Assets/DaDiShu/Eff/UI/BG Eff.prefab
+- Assets/DaDiShu/Eff/UI/bingdong Eff.prefab
+Dependencies:
+- E:/work/Unity_DaDiShu/./AssetBundle/WebGL/assets/dadishu/eff/materials.ab
+- E:/work/Unity_DaDiShu/./AssetBundle/WebGL/assets/dadishu/eff/xulie.ab
